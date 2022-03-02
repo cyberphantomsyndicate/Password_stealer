@@ -21,9 +21,9 @@
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/hacker6291/Text_to_hash.git `
+* `git clone https://github.com/hacker6291/Password_stealer.git `
 * `ls`
-* `cd Text_to_hash`
+* `cd Password_stealer`
 
 
 ## INSTALLATION [Kali Linux] :
@@ -31,23 +31,23 @@
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/hacker6291/Text_to_hash.git`
+* `git clone https://github.com/hacker6291/Password_stealer.git`
 * `ls`
-* `cd Text_to_hash `
+* `cd Password_stealer `
 
 
 ## Uses :
 
-* `cd Text_to_hash`
+* `cd Password_stealer`
 * `ls`
-* `python3 converter.py`
+* `python3 stealer.py`
 
 
 ## Screenshot:
 <br>
 <p align="center">
 <img width="90%" 
-src="https://github.com/hacker6291/Text_to_hash/blob/main/check.jpg"\>
+src="#"\>
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
