@@ -1,5 +1,5 @@
-<h1 align="center">Text_to_hash</h1>
-<p align="center">It convert text to hash a python Tool</p><br>
+<h1 align="center">Password_stealer</h1>
+<p align="center">Its steal the passowrd from chrome</p><br>
 
 
 
