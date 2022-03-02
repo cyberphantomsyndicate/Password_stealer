@@ -8,7 +8,7 @@ def startMessage ():#line:7
         print (Fore .RED +'[X] Wrong Code')#line:11
         print (Fore .BLUE +''' 
    1. For unlock code join my Telegram group
-   2. Insta ID: hacker_6_2_9_1
+   2. Group Link: https://t.me/Termux_official_01
    3. Send massage for code
    4. Next time come with code and use this tool
    5. bye
