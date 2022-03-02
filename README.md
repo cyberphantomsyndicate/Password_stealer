@@ -62,7 +62,7 @@ src="#"\>
 
 ✅ Youtube  https://youtube.com/channel/UC0bA-g308dwateRac81PnjQ
 
-✅instagram https://instagram.com/qadirahmad6291?utm_medium=copy_link
+✅instagram https://instagram.com/hacker_6_2_9_1?utm_medium=copy_link
 
 ✅ Telegram https://t.me/Termux_official_01
 
