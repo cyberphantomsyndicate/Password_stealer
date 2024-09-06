@@ -3,14 +3,7 @@ import platform
 from setup import colors
 from setup.colors import r,g,y,c
 
-logo = f"""
 
-
-       _
-  ___| |__  _ __ ___  _ __ ___   ___
- / __| '_ \| '__/ _ \| '_ ` _ \ / _ \
-| (__| | | | | | (_) | | | | | |  __/
- \___|_| |_|_|  \___/|_| |_| |_|\___|
 
  ____                                     _       _             _
 |  _ \ __ _ ___ _____      _____  _ __ __| |  ___| |_ ___  __ _| | ___ _ __
@@ -21,7 +14,7 @@ logo = f"""
 
 
 
-                             {c + "coded By: hacker_6_2_9_1"+y +" "}             
+                             {c + "coded By: CPS"+y +" "}             
                                                                                                                    
 """
 c = colors
